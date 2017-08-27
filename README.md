@@ -1,0 +1,2 @@
+# ScrapyPlay
+Play with Scrapy
